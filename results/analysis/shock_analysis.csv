@@ -1,0 +1,11 @@
+target,period,model,n_months,MAE
+quantity,regular,Naive_12m,12,1800.75
+quantity,regular,SARIMA,12,1182.6251817496902
+quantity,regular,RandomForest,12,657.990574207509
+quantity,regular,XGBoost,12,506.60862223307294
+quantity,regular,Transformer,12,1062.703948823351
+applications,regular,Naive_12m,12,12492.666666666666
+applications,regular,SARIMA,12,11606.352683573454
+applications,regular,RandomForest,12,12338.505130129357
+applications,regular,XGBoost,12,8764.292805989584
+applications,regular,Transformer,12,18701.618881383933
